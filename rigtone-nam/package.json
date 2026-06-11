@@ -1,0 +1,8 @@
+{
+  "name": "rigtone-nam",
+  "version": "1.0.0",
+  "description": "Rig de guitarra no navegador com Neural Amp Modeler (WASM)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

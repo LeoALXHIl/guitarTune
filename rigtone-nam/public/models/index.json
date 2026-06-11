@@ -1,0 +1,9 @@
+[
+  { "file": "jcm.nam",    "label": "Marshall JCM800" },
+  { "file": "deluxe.nam", "label": "Fender Deluxe Reverb" },
+  { "file": "5153.nam",   "label": "EVH 5150 III" },
+  { "file": "dumble.nam", "label": "Dumble ODS" },
+  { "file": "ac10.nam",   "label": "Vox AC10" },
+  { "file": "jc.nam",     "label": "Roland JC-120" },
+  { "file": "ampeg.nam",  "label": "Ampeg (baixo)" }
+]
